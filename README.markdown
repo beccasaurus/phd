@@ -8,7 +8,7 @@ If you have Passenger installed on a desktop/server, you should be able to:
     $ git clone git://github.com/remi/phd.git
     $ cd phd
     $ sudo ./phd_server_setup
-    $ sudo ln -s /usr/bin/phd /path/to/this/dir/phd  # phd needs to be in your PATH
+    $ sudo ln -s /path/to/this/dir/phd /usr/bin/phd # phd needs to be in your PATH
 
 And then, from another machine, you should be able to:
 
